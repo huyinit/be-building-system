@@ -1,0 +1,44 @@
+[
+    {
+        "_id": "66ff5fd922150a3f1ebf438c",
+        "ten": "Thuê mặt bằng",
+        "loai": "Dịch vụ",
+        "giaThueDichVu": 1000000,
+        "giaLamDichVu": 800000
+    },
+    {
+        "_id": "66ff5fd922150a3f1ebf438d",
+        "ten": "Vệ sinh",
+        "loai": "Dịch vụ",
+        "giaThueDichVu": 5000000,
+        "giaLamDichVu": 4000000
+    },
+    {
+        "_id": "66ff5fd922150a3f1ebf438e",
+        "ten": "Ăn uống",
+        "loai": "Dịch vụ",
+        "giaThueDichVu": 5000000,
+        "giaLamDichVu": 3000000
+    },
+    {
+        "_id": "66ff5fd922150a3f1ebf438f",
+        "ten": "Trông giữ xe",
+        "loai": "Dịch vụ",
+        "giaThueDichVu": 6000000,
+        "giaLamDichVu": 5000000
+    },
+    {
+        "_id": "66ff5fd922150a3f1ebf4390",
+        "ten": "Bảo vệ",
+        "loai": "Dịch vụ",
+        "giaThueDichVu": 5000000,
+        "giaLamDichVu": 4000000
+    },
+    {
+        "_id": "66ff5fd922150a3f1ebf4391",
+        "ten": "Bảo trì thiết bị",
+        "loai": "Dịch vụ",
+        "giaThueDichVu": 5000000,
+        "giaLamDichVu": 4000000
+    }
+]

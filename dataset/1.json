@@ -1,0 +1,50 @@
+db.NhanVienDichVu.aggregate([
+    {
+        // Lọc ra các bản ghi có năm là 2024
+        $match: {
+            nam: 2024
+        }
+    },
+    {
+        // Nhóm các bản ghi lại theo nhanVienId để tính lương cho từng nhân viên
+        $group: {
+            _id: "$nhanVienId",
+            tongLuong: { $sum: "$luong" },
+            chiTietLuong: {
+                $push: {
+                    thang: "$thang",
+                    luong: "$luong"
+                }
+            }
+        }
+    },
+    {
+        // Tham gia thêm thông tin từ collection NhanVienToaNha vào từng nhân viên
+        $lookup: {
+            from: "NhanVienToaNha",
+            localField: "_id",
+            foreignField: "_id",
+            as: "nhanVien"
+        }
+    },
+    {
+        // Giải nén thông tin nhân viên để dễ dàng truy cập
+        $unwind: "$nhanVien"
+    },
+    {
+        // Lựa chọn các trường cần thiết để trả về kết quả
+        $project: {
+            _id: 0,
+            maNhanVien: "$nhanVien.maNhanVien",
+            ten: "$nhanVien.ten",
+            tongLuong: 1,
+            chiTietLuong: 1
+        }
+    },
+    {
+        // Sắp xếp kết quả theo tên nhân viên
+        $sort: {
+            ten: 1
+        }
+    }
+]).pretty();

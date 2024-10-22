@@ -1,0 +1,3337 @@
+[
+    {
+        "_id": "66ff63696512d978bc070b25",
+        "congTyId": "66ff5f9939539f59aa855a45",
+        "nam": 2020,
+        "thang": 1,
+        "soNhanVien": 122,
+        "dienTich": 16,
+        "tongChiPhi": 10000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf438d"
+        ]
+    },
+    {
+        "_id": "66ff63696512d978bc070b26",
+        "congTyId": "66ff5f9939539f59aa855a45",
+        "nam": 2020,
+        "thang": 2,
+        "soNhanVien": 122,
+        "dienTich": 16,
+        "tongChiPhi": 6000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438f"
+        ]
+    },
+    {
+        "_id": "66ff63696512d978bc070b27",
+        "congTyId": "66ff5f9939539f59aa855a45",
+        "nam": 2020,
+        "thang": 3,
+        "soNhanVien": 122,
+        "dienTich": 16,
+        "tongChiPhi": 5000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4391"
+        ]
+    },
+    {
+        "_id": "66ff63696512d978bc070b28",
+        "congTyId": "66ff5f9939539f59aa855a45",
+        "nam": 2020,
+        "thang": 4,
+        "soNhanVien": 122,
+        "dienTich": 16,
+        "tongChiPhi": 11000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf438c"
+        ]
+    },
+    {
+        "_id": "66ff63696512d978bc070b29",
+        "congTyId": "66ff5f9939539f59aa855a45",
+        "nam": 2020,
+        "thang": 5,
+        "soNhanVien": 122,
+        "dienTich": 16,
+        "tongChiPhi": 6000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf438c"
+        ]
+    },
+    {
+        "_id": "66ff63696512d978bc070b2a",
+        "congTyId": "66ff5f9939539f59aa855a45",
+        "nam": 2021,
+        "thang": 1,
+        "soNhanVien": 122,
+        "dienTich": 16,
+        "tongChiPhi": 11000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf438f"
+        ]
+    },
+    {
+        "_id": "66ff63696512d978bc070b2b",
+        "congTyId": "66ff5f9939539f59aa855a45",
+        "nam": 2021,
+        "thang": 2,
+        "soNhanVien": 122,
+        "dienTich": 16,
+        "tongChiPhi": 1000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438c"
+        ]
+    },
+    {
+        "_id": "66ff63696512d978bc070b2c",
+        "congTyId": "66ff5f9939539f59aa855a45",
+        "nam": 2021,
+        "thang": 3,
+        "soNhanVien": 122,
+        "dienTich": 16,
+        "tongChiPhi": 6000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438f"
+        ]
+    },
+    {
+        "_id": "66ff63696512d978bc070b2d",
+        "congTyId": "66ff5f9939539f59aa855a45",
+        "nam": 2021,
+        "thang": 4,
+        "soNhanVien": 122,
+        "dienTich": 16,
+        "tongChiPhi": 16000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf438f"
+        ]
+    },
+    {
+        "_id": "66ff63696512d978bc070b2e",
+        "congTyId": "66ff5f9939539f59aa855a45",
+        "nam": 2021,
+        "thang": 5,
+        "soNhanVien": 122,
+        "dienTich": 16,
+        "tongChiPhi": 5000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438d"
+        ]
+    },
+    {
+        "_id": "66ff63696512d978bc070b2f",
+        "congTyId": "66ff5f9939539f59aa855a45",
+        "nam": 2022,
+        "thang": 1,
+        "soNhanVien": 122,
+        "dienTich": 16,
+        "tongChiPhi": 1000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438c"
+        ]
+    },
+    {
+        "_id": "66ff63696512d978bc070b30",
+        "congTyId": "66ff5f9939539f59aa855a45",
+        "nam": 2022,
+        "thang": 2,
+        "soNhanVien": 122,
+        "dienTich": 16,
+        "tongChiPhi": 5000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4391"
+        ]
+    },
+    {
+        "_id": "66ff63696512d978bc070b31",
+        "congTyId": "66ff5f9939539f59aa855a45",
+        "nam": 2022,
+        "thang": 3,
+        "soNhanVien": 122,
+        "dienTich": 16,
+        "tongChiPhi": 11000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf438f"
+        ]
+    },
+    {
+        "_id": "66ff63696512d978bc070b32",
+        "congTyId": "66ff5f9939539f59aa855a45",
+        "nam": 2022,
+        "thang": 4,
+        "soNhanVien": 122,
+        "dienTich": 16,
+        "tongChiPhi": 11000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438c",
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf4391"
+        ]
+    },
+    {
+        "_id": "66ff63696512d978bc070b33",
+        "congTyId": "66ff5f9939539f59aa855a45",
+        "nam": 2022,
+        "thang": 5,
+        "soNhanVien": 122,
+        "dienTich": 16,
+        "tongChiPhi": 5000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4390"
+        ]
+    },
+    {
+        "_id": "66ff63696512d978bc070b34",
+        "congTyId": "66ff5f9939539f59aa855a45",
+        "nam": 2023,
+        "thang": 1,
+        "soNhanVien": 122,
+        "dienTich": 16,
+        "tongChiPhi": 10000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf438e"
+        ]
+    },
+    {
+        "_id": "66ff63696512d978bc070b35",
+        "congTyId": "66ff5f9939539f59aa855a45",
+        "nam": 2023,
+        "thang": 2,
+        "soNhanVien": 122,
+        "dienTich": 16,
+        "tongChiPhi": 16000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf438d"
+        ]
+    },
+    {
+        "_id": "66ff63696512d978bc070b36",
+        "congTyId": "66ff5f9939539f59aa855a45",
+        "nam": 2023,
+        "thang": 3,
+        "soNhanVien": 122,
+        "dienTich": 16,
+        "tongChiPhi": 16000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf438f"
+        ]
+    },
+    {
+        "_id": "66ff63696512d978bc070b37",
+        "congTyId": "66ff5f9939539f59aa855a45",
+        "nam": 2023,
+        "thang": 4,
+        "soNhanVien": 122,
+        "dienTich": 16,
+        "tongChiPhi": 5000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4390"
+        ]
+    },
+    {
+        "_id": "66ff63696512d978bc070b38",
+        "congTyId": "66ff5f9939539f59aa855a45",
+        "nam": 2023,
+        "thang": 5,
+        "soNhanVien": 122,
+        "dienTich": 16,
+        "tongChiPhi": 16000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf438f"
+        ]
+    },
+    {
+        "_id": "66ff63696512d978bc070b39",
+        "congTyId": "66ff5f9939539f59aa855a45",
+        "nam": 2024,
+        "thang": 1,
+        "soNhanVien": 122,
+        "dienTich": 16,
+        "tongChiPhi": 11000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf438f"
+        ]
+    },
+    {
+        "_id": "66ff63696512d978bc070b3a",
+        "congTyId": "66ff5f9939539f59aa855a45",
+        "nam": 2024,
+        "thang": 2,
+        "soNhanVien": 122,
+        "dienTich": 16,
+        "tongChiPhi": 7000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438c",
+            "66ff5fd922150a3f1ebf438f"
+        ]
+    },
+    {
+        "_id": "66ff63696512d978bc070b3b",
+        "congTyId": "66ff5f9939539f59aa855a45",
+        "nam": 2024,
+        "thang": 3,
+        "soNhanVien": 122,
+        "dienTich": 16,
+        "tongChiPhi": 15000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438d",
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf4391"
+        ]
+    },
+    {
+        "_id": "66ff636a6512d978bc070b3c",
+        "congTyId": "66ff5f9939539f59aa855a45",
+        "nam": 2024,
+        "thang": 4,
+        "soNhanVien": 122,
+        "dienTich": 16,
+        "tongChiPhi": 1000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438c"
+        ]
+    },
+    {
+        "_id": "66ff636a6512d978bc070b3d",
+        "congTyId": "66ff5f9939539f59aa855a45",
+        "nam": 2024,
+        "thang": 5,
+        "soNhanVien": 122,
+        "dienTich": 16,
+        "tongChiPhi": 6000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf438c"
+        ]
+    },
+    {
+        "_id": "66ff636a6512d978bc070b3e",
+        "congTyId": "66ff5f9939539f59aa855a46",
+        "nam": 2020,
+        "thang": 1,
+        "soNhanVien": 105,
+        "dienTich": 25,
+        "tongChiPhi": 10000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf4390"
+        ]
+    },
+    {
+        "_id": "66ff636a6512d978bc070b3f",
+        "congTyId": "66ff5f9939539f59aa855a46",
+        "nam": 2020,
+        "thang": 2,
+        "soNhanVien": 105,
+        "dienTich": 25,
+        "tongChiPhi": 5000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438d"
+        ]
+    },
+    {
+        "_id": "66ff636a6512d978bc070b40",
+        "congTyId": "66ff5f9939539f59aa855a46",
+        "nam": 2020,
+        "thang": 3,
+        "soNhanVien": 105,
+        "dienTich": 25,
+        "tongChiPhi": 17000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438d",
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf438c",
+            "66ff5fd922150a3f1ebf438f"
+        ]
+    },
+    {
+        "_id": "66ff636a6512d978bc070b41",
+        "congTyId": "66ff5f9939539f59aa855a46",
+        "nam": 2020,
+        "thang": 4,
+        "soNhanVien": 105,
+        "dienTich": 25,
+        "tongChiPhi": 16000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf438c"
+        ]
+    },
+    {
+        "_id": "66ff636a6512d978bc070b42",
+        "congTyId": "66ff5f9939539f59aa855a46",
+        "nam": 2020,
+        "thang": 5,
+        "soNhanVien": 105,
+        "dienTich": 25,
+        "tongChiPhi": 5000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438d"
+        ]
+    },
+    {
+        "_id": "66ff636a6512d978bc070b43",
+        "congTyId": "66ff5f9939539f59aa855a46",
+        "nam": 2021,
+        "thang": 1,
+        "soNhanVien": 105,
+        "dienTich": 25,
+        "tongChiPhi": 10000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf438d"
+        ]
+    },
+    {
+        "_id": "66ff636a6512d978bc070b44",
+        "congTyId": "66ff5f9939539f59aa855a46",
+        "nam": 2021,
+        "thang": 2,
+        "soNhanVien": 105,
+        "dienTich": 25,
+        "tongChiPhi": 16000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438c",
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf438d"
+        ]
+    },
+    {
+        "_id": "66ff636a6512d978bc070b45",
+        "congTyId": "66ff5f9939539f59aa855a46",
+        "nam": 2021,
+        "thang": 3,
+        "soNhanVien": 105,
+        "dienTich": 25,
+        "tongChiPhi": 6000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf438c"
+        ]
+    },
+    {
+        "_id": "66ff636a6512d978bc070b46",
+        "congTyId": "66ff5f9939539f59aa855a46",
+        "nam": 2021,
+        "thang": 4,
+        "soNhanVien": 105,
+        "dienTich": 25,
+        "tongChiPhi": 10000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf4391"
+        ]
+    },
+    {
+        "_id": "66ff636a6512d978bc070b47",
+        "congTyId": "66ff5f9939539f59aa855a46",
+        "nam": 2021,
+        "thang": 5,
+        "soNhanVien": 105,
+        "dienTich": 25,
+        "tongChiPhi": 11000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf438e"
+        ]
+    },
+    {
+        "_id": "66ff636a6512d978bc070b48",
+        "congTyId": "66ff5f9939539f59aa855a46",
+        "nam": 2022,
+        "thang": 1,
+        "soNhanVien": 105,
+        "dienTich": 25,
+        "tongChiPhi": 11000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf438f"
+        ]
+    },
+    {
+        "_id": "66ff636a6512d978bc070b49",
+        "congTyId": "66ff5f9939539f59aa855a46",
+        "nam": 2022,
+        "thang": 2,
+        "soNhanVien": 105,
+        "dienTich": 25,
+        "tongChiPhi": 5000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4390"
+        ]
+    },
+    {
+        "_id": "66ff636a6512d978bc070b4a",
+        "congTyId": "66ff5f9939539f59aa855a46",
+        "nam": 2022,
+        "thang": 3,
+        "soNhanVien": 105,
+        "dienTich": 25,
+        "tongChiPhi": 11000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf4390"
+        ]
+    },
+    {
+        "_id": "66ff636a6512d978bc070b4b",
+        "congTyId": "66ff5f9939539f59aa855a46",
+        "nam": 2022,
+        "thang": 4,
+        "soNhanVien": 105,
+        "dienTich": 25,
+        "tongChiPhi": 16000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438d",
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf4391"
+        ]
+    },
+    {
+        "_id": "66ff636a6512d978bc070b4c",
+        "congTyId": "66ff5f9939539f59aa855a46",
+        "nam": 2022,
+        "thang": 5,
+        "soNhanVien": 105,
+        "dienTich": 25,
+        "tongChiPhi": 17000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf438c",
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf438d"
+        ]
+    },
+    {
+        "_id": "66ff636a6512d978bc070b4d",
+        "congTyId": "66ff5f9939539f59aa855a46",
+        "nam": 2023,
+        "thang": 1,
+        "soNhanVien": 105,
+        "dienTich": 25,
+        "tongChiPhi": 21000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf438e"
+        ]
+    },
+    {
+        "_id": "66ff636a6512d978bc070b4e",
+        "congTyId": "66ff5f9939539f59aa855a46",
+        "nam": 2023,
+        "thang": 2,
+        "soNhanVien": 105,
+        "dienTich": 25,
+        "tongChiPhi": 6000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf438c"
+        ]
+    },
+    {
+        "_id": "66ff636a6512d978bc070b4f",
+        "congTyId": "66ff5f9939539f59aa855a46",
+        "nam": 2023,
+        "thang": 3,
+        "soNhanVien": 105,
+        "dienTich": 25,
+        "tongChiPhi": 12000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf438c",
+            "66ff5fd922150a3f1ebf4390"
+        ]
+    },
+    {
+        "_id": "66ff636a6512d978bc070b50",
+        "congTyId": "66ff5f9939539f59aa855a46",
+        "nam": 2023,
+        "thang": 4,
+        "soNhanVien": 105,
+        "dienTich": 25,
+        "tongChiPhi": 6000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438c",
+            "66ff5fd922150a3f1ebf438d"
+        ]
+    },
+    {
+        "_id": "66ff636a6512d978bc070b51",
+        "congTyId": "66ff5f9939539f59aa855a46",
+        "nam": 2023,
+        "thang": 5,
+        "soNhanVien": 105,
+        "dienTich": 25,
+        "tongChiPhi": 15000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438d",
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf4390"
+        ]
+    },
+    {
+        "_id": "66ff636a6512d978bc070b52",
+        "congTyId": "66ff5f9939539f59aa855a46",
+        "nam": 2024,
+        "thang": 1,
+        "soNhanVien": 105,
+        "dienTich": 25,
+        "tongChiPhi": 6000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438f"
+        ]
+    },
+    {
+        "_id": "66ff636a6512d978bc070b53",
+        "congTyId": "66ff5f9939539f59aa855a46",
+        "nam": 2024,
+        "thang": 2,
+        "soNhanVien": 105,
+        "dienTich": 25,
+        "tongChiPhi": 11000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf438c",
+            "66ff5fd922150a3f1ebf438e"
+        ]
+    },
+    {
+        "_id": "66ff636a6512d978bc070b54",
+        "congTyId": "66ff5f9939539f59aa855a46",
+        "nam": 2024,
+        "thang": 3,
+        "soNhanVien": 105,
+        "dienTich": 25,
+        "tongChiPhi": 6000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438f"
+        ]
+    },
+    {
+        "_id": "66ff636a6512d978bc070b55",
+        "congTyId": "66ff5f9939539f59aa855a46",
+        "nam": 2024,
+        "thang": 4,
+        "soNhanVien": 105,
+        "dienTich": 25,
+        "tongChiPhi": 11000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf438f"
+        ]
+    },
+    {
+        "_id": "66ff636a6512d978bc070b56",
+        "congTyId": "66ff5f9939539f59aa855a46",
+        "nam": 2024,
+        "thang": 5,
+        "soNhanVien": 105,
+        "dienTich": 25,
+        "tongChiPhi": 16000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf438f"
+        ]
+    },
+    {
+        "_id": "66ff636b6512d978bc070b57",
+        "congTyId": "66ff5f9939539f59aa855a47",
+        "nam": 2020,
+        "thang": 1,
+        "soNhanVien": 130,
+        "dienTich": 15,
+        "tongChiPhi": 10000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf438e"
+        ]
+    },
+    {
+        "_id": "66ff636b6512d978bc070b58",
+        "congTyId": "66ff5f9939539f59aa855a47",
+        "nam": 2020,
+        "thang": 2,
+        "soNhanVien": 130,
+        "dienTich": 15,
+        "tongChiPhi": 11000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf438c",
+            "66ff5fd922150a3f1ebf438d"
+        ]
+    },
+    {
+        "_id": "66ff636b6512d978bc070b59",
+        "congTyId": "66ff5f9939539f59aa855a47",
+        "nam": 2020,
+        "thang": 3,
+        "soNhanVien": 130,
+        "dienTich": 15,
+        "tongChiPhi": 17000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438d",
+            "66ff5fd922150a3f1ebf438c",
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf4391"
+        ]
+    },
+    {
+        "_id": "66ff636b6512d978bc070b5a",
+        "congTyId": "66ff5f9939539f59aa855a47",
+        "nam": 2020,
+        "thang": 4,
+        "soNhanVien": 130,
+        "dienTich": 15,
+        "tongChiPhi": 12000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438c",
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf4390"
+        ]
+    },
+    {
+        "_id": "66ff636b6512d978bc070b5b",
+        "congTyId": "66ff5f9939539f59aa855a47",
+        "nam": 2020,
+        "thang": 5,
+        "soNhanVien": 130,
+        "dienTich": 15,
+        "tongChiPhi": 11000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf438d",
+            "66ff5fd922150a3f1ebf438c"
+        ]
+    },
+    {
+        "_id": "66ff636b6512d978bc070b5c",
+        "congTyId": "66ff5f9939539f59aa855a47",
+        "nam": 2021,
+        "thang": 1,
+        "soNhanVien": 130,
+        "dienTich": 15,
+        "tongChiPhi": 16000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf438d",
+            "66ff5fd922150a3f1ebf438c"
+        ]
+    },
+    {
+        "_id": "66ff636b6512d978bc070b5d",
+        "congTyId": "66ff5f9939539f59aa855a47",
+        "nam": 2021,
+        "thang": 2,
+        "soNhanVien": 130,
+        "dienTich": 15,
+        "tongChiPhi": 16000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438d",
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf438f"
+        ]
+    },
+    {
+        "_id": "66ff636b6512d978bc070b5e",
+        "congTyId": "66ff5f9939539f59aa855a47",
+        "nam": 2021,
+        "thang": 3,
+        "soNhanVien": 130,
+        "dienTich": 15,
+        "tongChiPhi": 11000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438c",
+            "66ff5fd922150a3f1ebf438d",
+            "66ff5fd922150a3f1ebf4391"
+        ]
+    },
+    {
+        "_id": "66ff636b6512d978bc070b5f",
+        "congTyId": "66ff5f9939539f59aa855a47",
+        "nam": 2021,
+        "thang": 4,
+        "soNhanVien": 130,
+        "dienTich": 15,
+        "tongChiPhi": 1000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438c"
+        ]
+    },
+    {
+        "_id": "66ff636b6512d978bc070b60",
+        "congTyId": "66ff5f9939539f59aa855a47",
+        "nam": 2021,
+        "thang": 5,
+        "soNhanVien": 130,
+        "dienTich": 15,
+        "tongChiPhi": 11000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf438e"
+        ]
+    },
+    {
+        "_id": "66ff636b6512d978bc070b61",
+        "congTyId": "66ff5f9939539f59aa855a47",
+        "nam": 2022,
+        "thang": 1,
+        "soNhanVien": 130,
+        "dienTich": 15,
+        "tongChiPhi": 21000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf438d",
+            "66ff5fd922150a3f1ebf438f"
+        ]
+    },
+    {
+        "_id": "66ff636b6512d978bc070b62",
+        "congTyId": "66ff5f9939539f59aa855a47",
+        "nam": 2022,
+        "thang": 2,
+        "soNhanVien": 130,
+        "dienTich": 15,
+        "tongChiPhi": 5000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438d"
+        ]
+    },
+    {
+        "_id": "66ff636b6512d978bc070b63",
+        "congTyId": "66ff5f9939539f59aa855a47",
+        "nam": 2022,
+        "thang": 3,
+        "soNhanVien": 130,
+        "dienTich": 15,
+        "tongChiPhi": 16000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438c",
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf438d"
+        ]
+    },
+    {
+        "_id": "66ff636b6512d978bc070b64",
+        "congTyId": "66ff5f9939539f59aa855a47",
+        "nam": 2022,
+        "thang": 4,
+        "soNhanVien": 130,
+        "dienTich": 15,
+        "tongChiPhi": 12000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf438d",
+            "66ff5fd922150a3f1ebf438c"
+        ]
+    },
+    {
+        "_id": "66ff636b6512d978bc070b65",
+        "congTyId": "66ff5f9939539f59aa855a47",
+        "nam": 2022,
+        "thang": 5,
+        "soNhanVien": 130,
+        "dienTich": 15,
+        "tongChiPhi": 1000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438c"
+        ]
+    },
+    {
+        "_id": "66ff636b6512d978bc070b66",
+        "congTyId": "66ff5f9939539f59aa855a47",
+        "nam": 2023,
+        "thang": 1,
+        "soNhanVien": 130,
+        "dienTich": 15,
+        "tongChiPhi": 5000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4391"
+        ]
+    },
+    {
+        "_id": "66ff636b6512d978bc070b67",
+        "congTyId": "66ff5f9939539f59aa855a47",
+        "nam": 2023,
+        "thang": 2,
+        "soNhanVien": 130,
+        "dienTich": 15,
+        "tongChiPhi": 1000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438c"
+        ]
+    },
+    {
+        "_id": "66ff636b6512d978bc070b68",
+        "congTyId": "66ff5f9939539f59aa855a47",
+        "nam": 2023,
+        "thang": 3,
+        "soNhanVien": 130,
+        "dienTich": 15,
+        "tongChiPhi": 16000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf438d"
+        ]
+    },
+    {
+        "_id": "66ff636b6512d978bc070b69",
+        "congTyId": "66ff5f9939539f59aa855a47",
+        "nam": 2023,
+        "thang": 4,
+        "soNhanVien": 130,
+        "dienTich": 15,
+        "tongChiPhi": 5000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438d"
+        ]
+    },
+    {
+        "_id": "66ff636b6512d978bc070b6a",
+        "congTyId": "66ff5f9939539f59aa855a47",
+        "nam": 2023,
+        "thang": 5,
+        "soNhanVien": 130,
+        "dienTich": 15,
+        "tongChiPhi": 6000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438f"
+        ]
+    },
+    {
+        "_id": "66ff636b6512d978bc070b6b",
+        "congTyId": "66ff5f9939539f59aa855a47",
+        "nam": 2024,
+        "thang": 1,
+        "soNhanVien": 130,
+        "dienTich": 15,
+        "tongChiPhi": 17000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf438c",
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf4391"
+        ]
+    },
+    {
+        "_id": "66ff636b6512d978bc070b6c",
+        "congTyId": "66ff5f9939539f59aa855a47",
+        "nam": 2024,
+        "thang": 2,
+        "soNhanVien": 130,
+        "dienTich": 15,
+        "tongChiPhi": 6000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438c",
+            "66ff5fd922150a3f1ebf4390"
+        ]
+    },
+    {
+        "_id": "66ff636b6512d978bc070b6d",
+        "congTyId": "66ff5f9939539f59aa855a47",
+        "nam": 2024,
+        "thang": 3,
+        "soNhanVien": 130,
+        "dienTich": 15,
+        "tongChiPhi": 5000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438e"
+        ]
+    },
+    {
+        "_id": "66ff636b6512d978bc070b6e",
+        "congTyId": "66ff5f9939539f59aa855a47",
+        "nam": 2024,
+        "thang": 4,
+        "soNhanVien": 130,
+        "dienTich": 15,
+        "tongChiPhi": 16000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf438c",
+            "66ff5fd922150a3f1ebf438d"
+        ]
+    },
+    {
+        "_id": "66ff636b6512d978bc070b6f",
+        "congTyId": "66ff5f9939539f59aa855a47",
+        "nam": 2024,
+        "thang": 5,
+        "soNhanVien": 130,
+        "dienTich": 15,
+        "tongChiPhi": 6000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438f"
+        ]
+    },
+    {
+        "_id": "66ff636b6512d978bc070b70",
+        "congTyId": "66ff5f9939539f59aa855a48",
+        "nam": 2020,
+        "thang": 1,
+        "soNhanVien": 131,
+        "dienTich": 21,
+        "tongChiPhi": 12000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438c",
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf438f"
+        ]
+    },
+    {
+        "_id": "66ff636b6512d978bc070b71",
+        "congTyId": "66ff5f9939539f59aa855a48",
+        "nam": 2020,
+        "thang": 2,
+        "soNhanVien": 131,
+        "dienTich": 21,
+        "tongChiPhi": 5000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438d"
+        ]
+    },
+    {
+        "_id": "66ff636b6512d978bc070b72",
+        "congTyId": "66ff5f9939539f59aa855a48",
+        "nam": 2020,
+        "thang": 3,
+        "soNhanVien": 131,
+        "dienTich": 21,
+        "tongChiPhi": 10000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf438d"
+        ]
+    },
+    {
+        "_id": "66ff636c6512d978bc070b73",
+        "congTyId": "66ff5f9939539f59aa855a48",
+        "nam": 2020,
+        "thang": 4,
+        "soNhanVien": 131,
+        "dienTich": 21,
+        "tongChiPhi": 5000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4391"
+        ]
+    },
+    {
+        "_id": "66ff636c6512d978bc070b74",
+        "congTyId": "66ff5f9939539f59aa855a48",
+        "nam": 2020,
+        "thang": 5,
+        "soNhanVien": 131,
+        "dienTich": 21,
+        "tongChiPhi": 6000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438f"
+        ]
+    },
+    {
+        "_id": "66ff636c6512d978bc070b75",
+        "congTyId": "66ff5f9939539f59aa855a48",
+        "nam": 2021,
+        "thang": 1,
+        "soNhanVien": 131,
+        "dienTich": 21,
+        "tongChiPhi": 10000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438d",
+            "66ff5fd922150a3f1ebf438e"
+        ]
+    },
+    {
+        "_id": "66ff636c6512d978bc070b76",
+        "congTyId": "66ff5f9939539f59aa855a48",
+        "nam": 2021,
+        "thang": 2,
+        "soNhanVien": 131,
+        "dienTich": 21,
+        "tongChiPhi": 7000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf438c"
+        ]
+    },
+    {
+        "_id": "66ff636c6512d978bc070b77",
+        "congTyId": "66ff5f9939539f59aa855a48",
+        "nam": 2021,
+        "thang": 3,
+        "soNhanVien": 131,
+        "dienTich": 21,
+        "tongChiPhi": 17000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf438c",
+            "66ff5fd922150a3f1ebf4390"
+        ]
+    },
+    {
+        "_id": "66ff636c6512d978bc070b78",
+        "congTyId": "66ff5f9939539f59aa855a48",
+        "nam": 2021,
+        "thang": 4,
+        "soNhanVien": 131,
+        "dienTich": 21,
+        "tongChiPhi": 5000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4390"
+        ]
+    },
+    {
+        "_id": "66ff636c6512d978bc070b79",
+        "congTyId": "66ff5f9939539f59aa855a48",
+        "nam": 2021,
+        "thang": 5,
+        "soNhanVien": 131,
+        "dienTich": 21,
+        "tongChiPhi": 5000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438e"
+        ]
+    },
+    {
+        "_id": "66ff636c6512d978bc070b7a",
+        "congTyId": "66ff5f9939539f59aa855a48",
+        "nam": 2022,
+        "thang": 1,
+        "soNhanVien": 131,
+        "dienTich": 21,
+        "tongChiPhi": 6000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438f"
+        ]
+    },
+    {
+        "_id": "66ff636c6512d978bc070b7b",
+        "congTyId": "66ff5f9939539f59aa855a48",
+        "nam": 2022,
+        "thang": 2,
+        "soNhanVien": 131,
+        "dienTich": 21,
+        "tongChiPhi": 11000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf4391"
+        ]
+    },
+    {
+        "_id": "66ff636c6512d978bc070b7c",
+        "congTyId": "66ff5f9939539f59aa855a48",
+        "nam": 2022,
+        "thang": 3,
+        "soNhanVien": 131,
+        "dienTich": 21,
+        "tongChiPhi": 16000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf438c",
+            "66ff5fd922150a3f1ebf438e"
+        ]
+    },
+    {
+        "_id": "66ff636c6512d978bc070b7d",
+        "congTyId": "66ff5f9939539f59aa855a48",
+        "nam": 2022,
+        "thang": 4,
+        "soNhanVien": 131,
+        "dienTich": 21,
+        "tongChiPhi": 10000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438d",
+            "66ff5fd922150a3f1ebf438e"
+        ]
+    },
+    {
+        "_id": "66ff636c6512d978bc070b7e",
+        "congTyId": "66ff5f9939539f59aa855a48",
+        "nam": 2022,
+        "thang": 5,
+        "soNhanVien": 131,
+        "dienTich": 21,
+        "tongChiPhi": 17000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf438c",
+            "66ff5fd922150a3f1ebf438d",
+            "66ff5fd922150a3f1ebf4390"
+        ]
+    },
+    {
+        "_id": "66ff636c6512d978bc070b7f",
+        "congTyId": "66ff5f9939539f59aa855a48",
+        "nam": 2023,
+        "thang": 1,
+        "soNhanVien": 131,
+        "dienTich": 21,
+        "tongChiPhi": 11000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf438f"
+        ]
+    },
+    {
+        "_id": "66ff636c6512d978bc070b80",
+        "congTyId": "66ff5f9939539f59aa855a48",
+        "nam": 2023,
+        "thang": 2,
+        "soNhanVien": 131,
+        "dienTich": 21,
+        "tongChiPhi": 17000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438c",
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf438d"
+        ]
+    },
+    {
+        "_id": "66ff636c6512d978bc070b81",
+        "congTyId": "66ff5f9939539f59aa855a48",
+        "nam": 2023,
+        "thang": 3,
+        "soNhanVien": 131,
+        "dienTich": 21,
+        "tongChiPhi": 5000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438d"
+        ]
+    },
+    {
+        "_id": "66ff636c6512d978bc070b82",
+        "congTyId": "66ff5f9939539f59aa855a48",
+        "nam": 2023,
+        "thang": 4,
+        "soNhanVien": 131,
+        "dienTich": 21,
+        "tongChiPhi": 5000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4390"
+        ]
+    },
+    {
+        "_id": "66ff636c6512d978bc070b83",
+        "congTyId": "66ff5f9939539f59aa855a48",
+        "nam": 2023,
+        "thang": 5,
+        "soNhanVien": 131,
+        "dienTich": 21,
+        "tongChiPhi": 11000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438d",
+            "66ff5fd922150a3f1ebf438c",
+            "66ff5fd922150a3f1ebf4390"
+        ]
+    },
+    {
+        "_id": "66ff636c6512d978bc070b84",
+        "congTyId": "66ff5f9939539f59aa855a48",
+        "nam": 2024,
+        "thang": 1,
+        "soNhanVien": 131,
+        "dienTich": 21,
+        "tongChiPhi": 10000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438d",
+            "66ff5fd922150a3f1ebf4390"
+        ]
+    },
+    {
+        "_id": "66ff636c6512d978bc070b85",
+        "congTyId": "66ff5f9939539f59aa855a48",
+        "nam": 2024,
+        "thang": 2,
+        "soNhanVien": 131,
+        "dienTich": 21,
+        "tongChiPhi": 6000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf438c"
+        ]
+    },
+    {
+        "_id": "66ff636c6512d978bc070b86",
+        "congTyId": "66ff5f9939539f59aa855a48",
+        "nam": 2024,
+        "thang": 3,
+        "soNhanVien": 131,
+        "dienTich": 21,
+        "tongChiPhi": 16000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf438e"
+        ]
+    },
+    {
+        "_id": "66ff636c6512d978bc070b87",
+        "congTyId": "66ff5f9939539f59aa855a48",
+        "nam": 2024,
+        "thang": 4,
+        "soNhanVien": 131,
+        "dienTich": 21,
+        "tongChiPhi": 16000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438c",
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf438d",
+            "66ff5fd922150a3f1ebf4390"
+        ]
+    },
+    {
+        "_id": "66ff636c6512d978bc070b88",
+        "congTyId": "66ff5f9939539f59aa855a48",
+        "nam": 2024,
+        "thang": 5,
+        "soNhanVien": 131,
+        "dienTich": 21,
+        "tongChiPhi": 5000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438e"
+        ]
+    },
+    {
+        "_id": "66ff636c6512d978bc070b89",
+        "congTyId": "66ff5f9939539f59aa855a49",
+        "nam": 2020,
+        "thang": 1,
+        "soNhanVien": 114,
+        "dienTich": 13,
+        "tongChiPhi": 5000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438d"
+        ]
+    },
+    {
+        "_id": "66ff636c6512d978bc070b8a",
+        "congTyId": "66ff5f9939539f59aa855a49",
+        "nam": 2020,
+        "thang": 2,
+        "soNhanVien": 114,
+        "dienTich": 13,
+        "tongChiPhi": 17000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf438c",
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf4391"
+        ]
+    },
+    {
+        "_id": "66ff636c6512d978bc070b8b",
+        "congTyId": "66ff5f9939539f59aa855a49",
+        "nam": 2020,
+        "thang": 3,
+        "soNhanVien": 114,
+        "dienTich": 13,
+        "tongChiPhi": 6000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438f"
+        ]
+    },
+    {
+        "_id": "66ff636c6512d978bc070b8c",
+        "congTyId": "66ff5f9939539f59aa855a49",
+        "nam": 2020,
+        "thang": 4,
+        "soNhanVien": 114,
+        "dienTich": 13,
+        "tongChiPhi": 12000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438c",
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf438f"
+        ]
+    },
+    {
+        "_id": "66ff636c6512d978bc070b8d",
+        "congTyId": "66ff5f9939539f59aa855a49",
+        "nam": 2020,
+        "thang": 5,
+        "soNhanVien": 114,
+        "dienTich": 13,
+        "tongChiPhi": 5000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4390"
+        ]
+    },
+    {
+        "_id": "66ff636c6512d978bc070b8e",
+        "congTyId": "66ff5f9939539f59aa855a49",
+        "nam": 2021,
+        "thang": 1,
+        "soNhanVien": 114,
+        "dienTich": 13,
+        "tongChiPhi": 20000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf438d",
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf4390"
+        ]
+    },
+    {
+        "_id": "66ff636d6512d978bc070b8f",
+        "congTyId": "66ff5f9939539f59aa855a49",
+        "nam": 2021,
+        "thang": 2,
+        "soNhanVien": 114,
+        "dienTich": 13,
+        "tongChiPhi": 17000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438c",
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf438d",
+            "66ff5fd922150a3f1ebf438f"
+        ]
+    },
+    {
+        "_id": "66ff636d6512d978bc070b90",
+        "congTyId": "66ff5f9939539f59aa855a49",
+        "nam": 2021,
+        "thang": 3,
+        "soNhanVien": 114,
+        "dienTich": 13,
+        "tongChiPhi": 5000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438e"
+        ]
+    },
+    {
+        "_id": "66ff636d6512d978bc070b91",
+        "congTyId": "66ff5f9939539f59aa855a49",
+        "nam": 2021,
+        "thang": 4,
+        "soNhanVien": 114,
+        "dienTich": 13,
+        "tongChiPhi": 6000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438f"
+        ]
+    },
+    {
+        "_id": "66ff636d6512d978bc070b92",
+        "congTyId": "66ff5f9939539f59aa855a49",
+        "nam": 2021,
+        "thang": 5,
+        "soNhanVien": 114,
+        "dienTich": 13,
+        "tongChiPhi": 11000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf438f"
+        ]
+    },
+    {
+        "_id": "66ff636d6512d978bc070b93",
+        "congTyId": "66ff5f9939539f59aa855a49",
+        "nam": 2022,
+        "thang": 1,
+        "soNhanVien": 114,
+        "dienTich": 13,
+        "tongChiPhi": 5000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4391"
+        ]
+    },
+    {
+        "_id": "66ff636d6512d978bc070b94",
+        "congTyId": "66ff5f9939539f59aa855a49",
+        "nam": 2022,
+        "thang": 2,
+        "soNhanVien": 114,
+        "dienTich": 13,
+        "tongChiPhi": 5000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4391"
+        ]
+    },
+    {
+        "_id": "66ff636d6512d978bc070b95",
+        "congTyId": "66ff5f9939539f59aa855a49",
+        "nam": 2022,
+        "thang": 3,
+        "soNhanVien": 114,
+        "dienTich": 13,
+        "tongChiPhi": 17000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf438c",
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf4391"
+        ]
+    },
+    {
+        "_id": "66ff636d6512d978bc070b96",
+        "congTyId": "66ff5f9939539f59aa855a49",
+        "nam": 2022,
+        "thang": 4,
+        "soNhanVien": 114,
+        "dienTich": 13,
+        "tongChiPhi": 6000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438c",
+            "66ff5fd922150a3f1ebf4390"
+        ]
+    },
+    {
+        "_id": "66ff636d6512d978bc070b97",
+        "congTyId": "66ff5f9939539f59aa855a49",
+        "nam": 2022,
+        "thang": 5,
+        "soNhanVien": 114,
+        "dienTich": 13,
+        "tongChiPhi": 5000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438e"
+        ]
+    },
+    {
+        "_id": "66ff636d6512d978bc070b98",
+        "congTyId": "66ff5f9939539f59aa855a49",
+        "nam": 2023,
+        "thang": 1,
+        "soNhanVien": 114,
+        "dienTich": 13,
+        "tongChiPhi": 17000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf438c"
+        ]
+    },
+    {
+        "_id": "66ff636d6512d978bc070b99",
+        "congTyId": "66ff5f9939539f59aa855a49",
+        "nam": 2023,
+        "thang": 2,
+        "soNhanVien": 114,
+        "dienTich": 13,
+        "tongChiPhi": 21000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf438d",
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf4391"
+        ]
+    },
+    {
+        "_id": "66ff636d6512d978bc070b9a",
+        "congTyId": "66ff5f9939539f59aa855a49",
+        "nam": 2023,
+        "thang": 3,
+        "soNhanVien": 114,
+        "dienTich": 13,
+        "tongChiPhi": 5000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438e"
+        ]
+    },
+    {
+        "_id": "66ff636d6512d978bc070b9b",
+        "congTyId": "66ff5f9939539f59aa855a49",
+        "nam": 2023,
+        "thang": 4,
+        "soNhanVien": 114,
+        "dienTich": 13,
+        "tongChiPhi": 16000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf438c",
+            "66ff5fd922150a3f1ebf438d"
+        ]
+    },
+    {
+        "_id": "66ff636d6512d978bc070b9c",
+        "congTyId": "66ff5f9939539f59aa855a49",
+        "nam": 2023,
+        "thang": 5,
+        "soNhanVien": 114,
+        "dienTich": 13,
+        "tongChiPhi": 12000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf438c"
+        ]
+    },
+    {
+        "_id": "66ff636d6512d978bc070b9d",
+        "congTyId": "66ff5f9939539f59aa855a49",
+        "nam": 2024,
+        "thang": 1,
+        "soNhanVien": 114,
+        "dienTich": 13,
+        "tongChiPhi": 10000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf438e"
+        ]
+    },
+    {
+        "_id": "66ff636d6512d978bc070b9e",
+        "congTyId": "66ff5f9939539f59aa855a49",
+        "nam": 2024,
+        "thang": 2,
+        "soNhanVien": 114,
+        "dienTich": 13,
+        "tongChiPhi": 11000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438d",
+            "66ff5fd922150a3f1ebf438f"
+        ]
+    },
+    {
+        "_id": "66ff636d6512d978bc070b9f",
+        "congTyId": "66ff5f9939539f59aa855a49",
+        "nam": 2024,
+        "thang": 3,
+        "soNhanVien": 114,
+        "dienTich": 13,
+        "tongChiPhi": 21000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf438f"
+        ]
+    },
+    {
+        "_id": "66ff636d6512d978bc070ba0",
+        "congTyId": "66ff5f9939539f59aa855a49",
+        "nam": 2024,
+        "thang": 4,
+        "soNhanVien": 114,
+        "dienTich": 13,
+        "tongChiPhi": 6000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438f"
+        ]
+    },
+    {
+        "_id": "66ff636d6512d978bc070ba1",
+        "congTyId": "66ff5f9939539f59aa855a49",
+        "nam": 2024,
+        "thang": 5,
+        "soNhanVien": 114,
+        "dienTich": 13,
+        "tongChiPhi": 1000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438c"
+        ]
+    },
+    {
+        "_id": "66ff636d6512d978bc070ba2",
+        "congTyId": "66ff5f9939539f59aa855a4a",
+        "nam": 2020,
+        "thang": 1,
+        "soNhanVien": 90,
+        "dienTich": 12,
+        "tongChiPhi": 10000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf438d"
+        ]
+    },
+    {
+        "_id": "66ff636d6512d978bc070ba3",
+        "congTyId": "66ff5f9939539f59aa855a4a",
+        "nam": 2020,
+        "thang": 2,
+        "soNhanVien": 90,
+        "dienTich": 12,
+        "tongChiPhi": 6000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438d",
+            "66ff5fd922150a3f1ebf438c"
+        ]
+    },
+    {
+        "_id": "66ff636d6512d978bc070ba4",
+        "congTyId": "66ff5f9939539f59aa855a4a",
+        "nam": 2020,
+        "thang": 3,
+        "soNhanVien": 90,
+        "dienTich": 12,
+        "tongChiPhi": 20000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf438d"
+        ]
+    },
+    {
+        "_id": "66ff636d6512d978bc070ba5",
+        "congTyId": "66ff5f9939539f59aa855a4a",
+        "nam": 2020,
+        "thang": 4,
+        "soNhanVien": 90,
+        "dienTich": 12,
+        "tongChiPhi": 1000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438c"
+        ]
+    },
+    {
+        "_id": "66ff636d6512d978bc070ba6",
+        "congTyId": "66ff5f9939539f59aa855a4a",
+        "nam": 2020,
+        "thang": 5,
+        "soNhanVien": 90,
+        "dienTich": 12,
+        "tongChiPhi": 11000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf4390"
+        ]
+    },
+    {
+        "_id": "66ff636d6512d978bc070ba7",
+        "congTyId": "66ff5f9939539f59aa855a4a",
+        "nam": 2021,
+        "thang": 1,
+        "soNhanVien": 90,
+        "dienTich": 12,
+        "tongChiPhi": 16000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438d",
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf438c",
+            "66ff5fd922150a3f1ebf438e"
+        ]
+    },
+    {
+        "_id": "66ff636d6512d978bc070ba8",
+        "congTyId": "66ff5f9939539f59aa855a4a",
+        "nam": 2021,
+        "thang": 2,
+        "soNhanVien": 90,
+        "dienTich": 12,
+        "tongChiPhi": 20000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf438d",
+            "66ff5fd922150a3f1ebf4390"
+        ]
+    },
+    {
+        "_id": "66ff636d6512d978bc070ba9",
+        "congTyId": "66ff5f9939539f59aa855a4a",
+        "nam": 2021,
+        "thang": 3,
+        "soNhanVien": 90,
+        "dienTich": 12,
+        "tongChiPhi": 16000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf438c",
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf438d"
+        ]
+    },
+    {
+        "_id": "66ff636e6512d978bc070baa",
+        "congTyId": "66ff5f9939539f59aa855a4a",
+        "nam": 2021,
+        "thang": 4,
+        "soNhanVien": 90,
+        "dienTich": 12,
+        "tongChiPhi": 12000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438c",
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf438d"
+        ]
+    },
+    {
+        "_id": "66ff636e6512d978bc070bab",
+        "congTyId": "66ff5f9939539f59aa855a4a",
+        "nam": 2021,
+        "thang": 5,
+        "soNhanVien": 90,
+        "dienTich": 12,
+        "tongChiPhi": 6000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438f"
+        ]
+    },
+    {
+        "_id": "66ff636e6512d978bc070bac",
+        "congTyId": "66ff5f9939539f59aa855a4a",
+        "nam": 2022,
+        "thang": 1,
+        "soNhanVien": 90,
+        "dienTich": 12,
+        "tongChiPhi": 10000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf438e"
+        ]
+    },
+    {
+        "_id": "66ff636e6512d978bc070bad",
+        "congTyId": "66ff5f9939539f59aa855a4a",
+        "nam": 2022,
+        "thang": 2,
+        "soNhanVien": 90,
+        "dienTich": 12,
+        "tongChiPhi": 6000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438f"
+        ]
+    },
+    {
+        "_id": "66ff636e6512d978bc070bae",
+        "congTyId": "66ff5f9939539f59aa855a4a",
+        "nam": 2022,
+        "thang": 3,
+        "soNhanVien": 90,
+        "dienTich": 12,
+        "tongChiPhi": 6000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438c",
+            "66ff5fd922150a3f1ebf4390"
+        ]
+    },
+    {
+        "_id": "66ff636e6512d978bc070baf",
+        "congTyId": "66ff5f9939539f59aa855a4a",
+        "nam": 2022,
+        "thang": 4,
+        "soNhanVien": 90,
+        "dienTich": 12,
+        "tongChiPhi": 11000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf4390"
+        ]
+    },
+    {
+        "_id": "66ff636e6512d978bc070bb0",
+        "congTyId": "66ff5f9939539f59aa855a4a",
+        "nam": 2022,
+        "thang": 5,
+        "soNhanVien": 90,
+        "dienTich": 12,
+        "tongChiPhi": 17000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf438d",
+            "66ff5fd922150a3f1ebf438c",
+            "66ff5fd922150a3f1ebf438f"
+        ]
+    },
+    {
+        "_id": "66ff636e6512d978bc070bb1",
+        "congTyId": "66ff5f9939539f59aa855a4a",
+        "nam": 2023,
+        "thang": 1,
+        "soNhanVien": 90,
+        "dienTich": 12,
+        "tongChiPhi": 5000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438e"
+        ]
+    },
+    {
+        "_id": "66ff636e6512d978bc070bb2",
+        "congTyId": "66ff5f9939539f59aa855a4a",
+        "nam": 2023,
+        "thang": 2,
+        "soNhanVien": 90,
+        "dienTich": 12,
+        "tongChiPhi": 11000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf438c",
+            "66ff5fd922150a3f1ebf438d"
+        ]
+    },
+    {
+        "_id": "66ff636e6512d978bc070bb3",
+        "congTyId": "66ff5f9939539f59aa855a4a",
+        "nam": 2023,
+        "thang": 3,
+        "soNhanVien": 90,
+        "dienTich": 12,
+        "tongChiPhi": 16000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf438d",
+            "66ff5fd922150a3f1ebf438c"
+        ]
+    },
+    {
+        "_id": "66ff636e6512d978bc070bb4",
+        "congTyId": "66ff5f9939539f59aa855a4a",
+        "nam": 2023,
+        "thang": 4,
+        "soNhanVien": 90,
+        "dienTich": 12,
+        "tongChiPhi": 6000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf438c"
+        ]
+    },
+    {
+        "_id": "66ff636e6512d978bc070bb5",
+        "congTyId": "66ff5f9939539f59aa855a4a",
+        "nam": 2023,
+        "thang": 5,
+        "soNhanVien": 90,
+        "dienTich": 12,
+        "tongChiPhi": 11000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438c",
+            "66ff5fd922150a3f1ebf438d",
+            "66ff5fd922150a3f1ebf438e"
+        ]
+    },
+    {
+        "_id": "66ff636e6512d978bc070bb6",
+        "congTyId": "66ff5f9939539f59aa855a4a",
+        "nam": 2024,
+        "thang": 1,
+        "soNhanVien": 90,
+        "dienTich": 12,
+        "tongChiPhi": 1000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438c"
+        ]
+    },
+    {
+        "_id": "66ff636e6512d978bc070bb7",
+        "congTyId": "66ff5f9939539f59aa855a4a",
+        "nam": 2024,
+        "thang": 2,
+        "soNhanVien": 90,
+        "dienTich": 12,
+        "tongChiPhi": 10000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf438d"
+        ]
+    },
+    {
+        "_id": "66ff636e6512d978bc070bb8",
+        "congTyId": "66ff5f9939539f59aa855a4a",
+        "nam": 2024,
+        "thang": 3,
+        "soNhanVien": 90,
+        "dienTich": 12,
+        "tongChiPhi": 15000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438d",
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf438e"
+        ]
+    },
+    {
+        "_id": "66ff636e6512d978bc070bb9",
+        "congTyId": "66ff5f9939539f59aa855a4a",
+        "nam": 2024,
+        "thang": 4,
+        "soNhanVien": 90,
+        "dienTich": 12,
+        "tongChiPhi": 11000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf438f"
+        ]
+    },
+    {
+        "_id": "66ff636e6512d978bc070bba",
+        "congTyId": "66ff5f9939539f59aa855a4a",
+        "nam": 2024,
+        "thang": 5,
+        "soNhanVien": 90,
+        "dienTich": 12,
+        "tongChiPhi": 20000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf438d"
+        ]
+    },
+    {
+        "_id": "66ff636e6512d978bc070bbb",
+        "congTyId": "66ff5f9939539f59aa855a4b",
+        "nam": 2020,
+        "thang": 1,
+        "soNhanVien": 131,
+        "dienTich": 21,
+        "tongChiPhi": 5000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4390"
+        ]
+    },
+    {
+        "_id": "66ff636e6512d978bc070bbc",
+        "congTyId": "66ff5f9939539f59aa855a4b",
+        "nam": 2020,
+        "thang": 2,
+        "soNhanVien": 131,
+        "dienTich": 21,
+        "tongChiPhi": 11000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf4391"
+        ]
+    },
+    {
+        "_id": "66ff636e6512d978bc070bbd",
+        "congTyId": "66ff5f9939539f59aa855a4b",
+        "nam": 2020,
+        "thang": 3,
+        "soNhanVien": 131,
+        "dienTich": 21,
+        "tongChiPhi": 5000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438e"
+        ]
+    },
+    {
+        "_id": "66ff636e6512d978bc070bbe",
+        "congTyId": "66ff5f9939539f59aa855a4b",
+        "nam": 2020,
+        "thang": 4,
+        "soNhanVien": 131,
+        "dienTich": 21,
+        "tongChiPhi": 1000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438c"
+        ]
+    },
+    {
+        "_id": "66ff636e6512d978bc070bbf",
+        "congTyId": "66ff5f9939539f59aa855a4b",
+        "nam": 2020,
+        "thang": 5,
+        "soNhanVien": 131,
+        "dienTich": 21,
+        "tongChiPhi": 15000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf438d",
+            "66ff5fd922150a3f1ebf438e"
+        ]
+    },
+    {
+        "_id": "66ff636e6512d978bc070bc0",
+        "congTyId": "66ff5f9939539f59aa855a4b",
+        "nam": 2021,
+        "thang": 1,
+        "soNhanVien": 131,
+        "dienTich": 21,
+        "tongChiPhi": 1000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438c"
+        ]
+    },
+    {
+        "_id": "66ff636e6512d978bc070bc1",
+        "congTyId": "66ff5f9939539f59aa855a4b",
+        "nam": 2021,
+        "thang": 2,
+        "soNhanVien": 131,
+        "dienTich": 21,
+        "tongChiPhi": 6000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf438c"
+        ]
+    },
+    {
+        "_id": "66ff636e6512d978bc070bc2",
+        "congTyId": "66ff5f9939539f59aa855a4b",
+        "nam": 2021,
+        "thang": 3,
+        "soNhanVien": 131,
+        "dienTich": 21,
+        "tongChiPhi": 5000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4390"
+        ]
+    },
+    {
+        "_id": "66ff636e6512d978bc070bc3",
+        "congTyId": "66ff5f9939539f59aa855a4b",
+        "nam": 2021,
+        "thang": 4,
+        "soNhanVien": 131,
+        "dienTich": 21,
+        "tongChiPhi": 21000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf438f"
+        ]
+    },
+    {
+        "_id": "66ff636e6512d978bc070bc4",
+        "congTyId": "66ff5f9939539f59aa855a4b",
+        "nam": 2021,
+        "thang": 5,
+        "soNhanVien": 131,
+        "dienTich": 21,
+        "tongChiPhi": 1000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438c"
+        ]
+    },
+    {
+        "_id": "66ff636f6512d978bc070bc5",
+        "congTyId": "66ff5f9939539f59aa855a4b",
+        "nam": 2022,
+        "thang": 1,
+        "soNhanVien": 131,
+        "dienTich": 21,
+        "tongChiPhi": 15000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf438d",
+            "66ff5fd922150a3f1ebf438e"
+        ]
+    },
+    {
+        "_id": "66ff636f6512d978bc070bc6",
+        "congTyId": "66ff5f9939539f59aa855a4b",
+        "nam": 2022,
+        "thang": 2,
+        "soNhanVien": 131,
+        "dienTich": 21,
+        "tongChiPhi": 17000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438c",
+            "66ff5fd922150a3f1ebf438d",
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf4390"
+        ]
+    },
+    {
+        "_id": "66ff636f6512d978bc070bc7",
+        "congTyId": "66ff5f9939539f59aa855a4b",
+        "nam": 2022,
+        "thang": 3,
+        "soNhanVien": 131,
+        "dienTich": 21,
+        "tongChiPhi": 15000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438d",
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf4390"
+        ]
+    },
+    {
+        "_id": "66ff636f6512d978bc070bc8",
+        "congTyId": "66ff5f9939539f59aa855a4b",
+        "nam": 2022,
+        "thang": 4,
+        "soNhanVien": 131,
+        "dienTich": 21,
+        "tongChiPhi": 20000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf438d",
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf438e"
+        ]
+    },
+    {
+        "_id": "66ff636f6512d978bc070bc9",
+        "congTyId": "66ff5f9939539f59aa855a4b",
+        "nam": 2022,
+        "thang": 5,
+        "soNhanVien": 131,
+        "dienTich": 21,
+        "tongChiPhi": 6000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438f"
+        ]
+    },
+    {
+        "_id": "66ff636f6512d978bc070bca",
+        "congTyId": "66ff5f9939539f59aa855a4b",
+        "nam": 2023,
+        "thang": 1,
+        "soNhanVien": 131,
+        "dienTich": 21,
+        "tongChiPhi": 10000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf4390"
+        ]
+    },
+    {
+        "_id": "66ff636f6512d978bc070bcb",
+        "congTyId": "66ff5f9939539f59aa855a4b",
+        "nam": 2023,
+        "thang": 2,
+        "soNhanVien": 131,
+        "dienTich": 21,
+        "tongChiPhi": 17000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438d",
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf438c"
+        ]
+    },
+    {
+        "_id": "66ff636f6512d978bc070bcc",
+        "congTyId": "66ff5f9939539f59aa855a4b",
+        "nam": 2023,
+        "thang": 3,
+        "soNhanVien": 131,
+        "dienTich": 21,
+        "tongChiPhi": 5000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438d"
+        ]
+    },
+    {
+        "_id": "66ff636f6512d978bc070bcd",
+        "congTyId": "66ff5f9939539f59aa855a4b",
+        "nam": 2023,
+        "thang": 4,
+        "soNhanVien": 131,
+        "dienTich": 21,
+        "tongChiPhi": 5000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4390"
+        ]
+    },
+    {
+        "_id": "66ff636f6512d978bc070bce",
+        "congTyId": "66ff5f9939539f59aa855a4b",
+        "nam": 2023,
+        "thang": 5,
+        "soNhanVien": 131,
+        "dienTich": 21,
+        "tongChiPhi": 21000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf4391"
+        ]
+    },
+    {
+        "_id": "66ff636f6512d978bc070bcf",
+        "congTyId": "66ff5f9939539f59aa855a4b",
+        "nam": 2024,
+        "thang": 1,
+        "soNhanVien": 131,
+        "dienTich": 21,
+        "tongChiPhi": 16000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf438e"
+        ]
+    },
+    {
+        "_id": "66ff636f6512d978bc070bd0",
+        "congTyId": "66ff5f9939539f59aa855a4b",
+        "nam": 2024,
+        "thang": 2,
+        "soNhanVien": 131,
+        "dienTich": 21,
+        "tongChiPhi": 6000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438f"
+        ]
+    },
+    {
+        "_id": "66ff636f6512d978bc070bd1",
+        "congTyId": "66ff5f9939539f59aa855a4b",
+        "nam": 2024,
+        "thang": 3,
+        "soNhanVien": 131,
+        "dienTich": 21,
+        "tongChiPhi": 10000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438d",
+            "66ff5fd922150a3f1ebf4390"
+        ]
+    },
+    {
+        "_id": "66ff636f6512d978bc070bd2",
+        "congTyId": "66ff5f9939539f59aa855a4b",
+        "nam": 2024,
+        "thang": 4,
+        "soNhanVien": 131,
+        "dienTich": 21,
+        "tongChiPhi": 5000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438d"
+        ]
+    },
+    {
+        "_id": "66ff636f6512d978bc070bd3",
+        "congTyId": "66ff5f9939539f59aa855a4b",
+        "nam": 2024,
+        "thang": 5,
+        "soNhanVien": 131,
+        "dienTich": 21,
+        "tongChiPhi": 21000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438d",
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf4390"
+        ]
+    },
+    {
+        "_id": "66ff636f6512d978bc070bd4",
+        "congTyId": "66ff5f9939539f59aa855a4c",
+        "nam": 2020,
+        "thang": 1,
+        "soNhanVien": 120,
+        "dienTich": 11,
+        "tongChiPhi": 21000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf438d"
+        ]
+    },
+    {
+        "_id": "66ff636f6512d978bc070bd5",
+        "congTyId": "66ff5f9939539f59aa855a4c",
+        "nam": 2020,
+        "thang": 2,
+        "soNhanVien": 120,
+        "dienTich": 11,
+        "tongChiPhi": 1000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438c"
+        ]
+    },
+    {
+        "_id": "66ff636f6512d978bc070bd6",
+        "congTyId": "66ff5f9939539f59aa855a4c",
+        "nam": 2020,
+        "thang": 3,
+        "soNhanVien": 120,
+        "dienTich": 11,
+        "tongChiPhi": 16000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf438d",
+            "66ff5fd922150a3f1ebf438f"
+        ]
+    },
+    {
+        "_id": "66ff636f6512d978bc070bd7",
+        "congTyId": "66ff5f9939539f59aa855a4c",
+        "nam": 2020,
+        "thang": 4,
+        "soNhanVien": 120,
+        "dienTich": 11,
+        "tongChiPhi": 5000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4390"
+        ]
+    },
+    {
+        "_id": "66ff636f6512d978bc070bd8",
+        "congTyId": "66ff5f9939539f59aa855a4c",
+        "nam": 2020,
+        "thang": 5,
+        "soNhanVien": 120,
+        "dienTich": 11,
+        "tongChiPhi": 6000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438f"
+        ]
+    },
+    {
+        "_id": "66ff636f6512d978bc070bd9",
+        "congTyId": "66ff5f9939539f59aa855a4c",
+        "nam": 2021,
+        "thang": 1,
+        "soNhanVien": 120,
+        "dienTich": 11,
+        "tongChiPhi": 11000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf4391"
+        ]
+    },
+    {
+        "_id": "66ff636f6512d978bc070bda",
+        "congTyId": "66ff5f9939539f59aa855a4c",
+        "nam": 2021,
+        "thang": 2,
+        "soNhanVien": 120,
+        "dienTich": 11,
+        "tongChiPhi": 11000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438d",
+            "66ff5fd922150a3f1ebf438f"
+        ]
+    },
+    {
+        "_id": "66ff636f6512d978bc070bdb",
+        "congTyId": "66ff5f9939539f59aa855a4c",
+        "nam": 2021,
+        "thang": 3,
+        "soNhanVien": 120,
+        "dienTich": 11,
+        "tongChiPhi": 11000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf438c"
+        ]
+    },
+    {
+        "_id": "66ff636f6512d978bc070bdc",
+        "congTyId": "66ff5f9939539f59aa855a4c",
+        "nam": 2021,
+        "thang": 4,
+        "soNhanVien": 120,
+        "dienTich": 11,
+        "tongChiPhi": 5000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438d"
+        ]
+    },
+    {
+        "_id": "66ff636f6512d978bc070bdd",
+        "congTyId": "66ff5f9939539f59aa855a4c",
+        "nam": 2021,
+        "thang": 5,
+        "soNhanVien": 120,
+        "dienTich": 11,
+        "tongChiPhi": 10000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438d",
+            "66ff5fd922150a3f1ebf4391"
+        ]
+    },
+    {
+        "_id": "66ff636f6512d978bc070bde",
+        "congTyId": "66ff5f9939539f59aa855a4c",
+        "nam": 2022,
+        "thang": 1,
+        "soNhanVien": 120,
+        "dienTich": 11,
+        "tongChiPhi": 5000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4391"
+        ]
+    },
+    {
+        "_id": "66ff636f6512d978bc070bdf",
+        "congTyId": "66ff5f9939539f59aa855a4c",
+        "nam": 2022,
+        "thang": 2,
+        "soNhanVien": 120,
+        "dienTich": 11,
+        "tongChiPhi": 10000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf438d"
+        ]
+    },
+    {
+        "_id": "66ff63706512d978bc070be0",
+        "congTyId": "66ff5f9939539f59aa855a4c",
+        "nam": 2022,
+        "thang": 3,
+        "soNhanVien": 120,
+        "dienTich": 11,
+        "tongChiPhi": 21000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf438d",
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf4391"
+        ]
+    },
+    {
+        "_id": "66ff63706512d978bc070be1",
+        "congTyId": "66ff5f9939539f59aa855a4c",
+        "nam": 2022,
+        "thang": 4,
+        "soNhanVien": 120,
+        "dienTich": 11,
+        "tongChiPhi": 5000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4391"
+        ]
+    },
+    {
+        "_id": "66ff63706512d978bc070be2",
+        "congTyId": "66ff5f9939539f59aa855a4c",
+        "nam": 2022,
+        "thang": 5,
+        "soNhanVien": 120,
+        "dienTich": 11,
+        "tongChiPhi": 6000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438f"
+        ]
+    },
+    {
+        "_id": "66ff63706512d978bc070be3",
+        "congTyId": "66ff5f9939539f59aa855a4c",
+        "nam": 2023,
+        "thang": 1,
+        "soNhanVien": 120,
+        "dienTich": 11,
+        "tongChiPhi": 5000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438d"
+        ]
+    },
+    {
+        "_id": "66ff63706512d978bc070be4",
+        "congTyId": "66ff5f9939539f59aa855a4c",
+        "nam": 2023,
+        "thang": 2,
+        "soNhanVien": 120,
+        "dienTich": 11,
+        "tongChiPhi": 11000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf438f"
+        ]
+    },
+    {
+        "_id": "66ff63706512d978bc070be5",
+        "congTyId": "66ff5f9939539f59aa855a4c",
+        "nam": 2023,
+        "thang": 3,
+        "soNhanVien": 120,
+        "dienTich": 11,
+        "tongChiPhi": 10000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438d",
+            "66ff5fd922150a3f1ebf4391"
+        ]
+    },
+    {
+        "_id": "66ff63706512d978bc070be6",
+        "congTyId": "66ff5f9939539f59aa855a4c",
+        "nam": 2023,
+        "thang": 4,
+        "soNhanVien": 120,
+        "dienTich": 11,
+        "tongChiPhi": 6000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438d",
+            "66ff5fd922150a3f1ebf438c"
+        ]
+    },
+    {
+        "_id": "66ff63706512d978bc070be7",
+        "congTyId": "66ff5f9939539f59aa855a4c",
+        "nam": 2023,
+        "thang": 5,
+        "soNhanVien": 120,
+        "dienTich": 11,
+        "tongChiPhi": 17000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf438c"
+        ]
+    },
+    {
+        "_id": "66ff63706512d978bc070be8",
+        "congTyId": "66ff5f9939539f59aa855a4c",
+        "nam": 2024,
+        "thang": 1,
+        "soNhanVien": 120,
+        "dienTich": 11,
+        "tongChiPhi": 5000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4391"
+        ]
+    },
+    {
+        "_id": "66ff63706512d978bc070be9",
+        "congTyId": "66ff5f9939539f59aa855a4c",
+        "nam": 2024,
+        "thang": 2,
+        "soNhanVien": 120,
+        "dienTich": 11,
+        "tongChiPhi": 17000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf438c",
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf438e"
+        ]
+    },
+    {
+        "_id": "66ff63706512d978bc070bea",
+        "congTyId": "66ff5f9939539f59aa855a4c",
+        "nam": 2024,
+        "thang": 3,
+        "soNhanVien": 120,
+        "dienTich": 11,
+        "tongChiPhi": 16000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf438d",
+            "66ff5fd922150a3f1ebf438c"
+        ]
+    },
+    {
+        "_id": "66ff63706512d978bc070beb",
+        "congTyId": "66ff5f9939539f59aa855a4c",
+        "nam": 2024,
+        "thang": 4,
+        "soNhanVien": 120,
+        "dienTich": 11,
+        "tongChiPhi": 12000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438c",
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf4390"
+        ]
+    },
+    {
+        "_id": "66ff63706512d978bc070bec",
+        "congTyId": "66ff5f9939539f59aa855a4c",
+        "nam": 2024,
+        "thang": 5,
+        "soNhanVien": 120,
+        "dienTich": 11,
+        "tongChiPhi": 1000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438c"
+        ]
+    },
+    {
+        "_id": "66ff63706512d978bc070bed",
+        "congTyId": "66ff5f9939539f59aa855a4d",
+        "nam": 2020,
+        "thang": 1,
+        "soNhanVien": 109,
+        "dienTich": 21,
+        "tongChiPhi": 6000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438c",
+            "66ff5fd922150a3f1ebf4390"
+        ]
+    },
+    {
+        "_id": "66ff63706512d978bc070bee",
+        "congTyId": "66ff5f9939539f59aa855a4d",
+        "nam": 2020,
+        "thang": 2,
+        "soNhanVien": 109,
+        "dienTich": 21,
+        "tongChiPhi": 11000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438c",
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf4390"
+        ]
+    },
+    {
+        "_id": "66ff63706512d978bc070bef",
+        "congTyId": "66ff5f9939539f59aa855a4d",
+        "nam": 2020,
+        "thang": 3,
+        "soNhanVien": 109,
+        "dienTich": 21,
+        "tongChiPhi": 16000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438d",
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf4391"
+        ]
+    },
+    {
+        "_id": "66ff63706512d978bc070bf0",
+        "congTyId": "66ff5f9939539f59aa855a4d",
+        "nam": 2020,
+        "thang": 4,
+        "soNhanVien": 109,
+        "dienTich": 21,
+        "tongChiPhi": 11000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf4391"
+        ]
+    },
+    {
+        "_id": "66ff63706512d978bc070bf1",
+        "congTyId": "66ff5f9939539f59aa855a4d",
+        "nam": 2020,
+        "thang": 5,
+        "soNhanVien": 109,
+        "dienTich": 21,
+        "tongChiPhi": 1000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438c"
+        ]
+    },
+    {
+        "_id": "66ff63706512d978bc070bf2",
+        "congTyId": "66ff5f9939539f59aa855a4d",
+        "nam": 2021,
+        "thang": 1,
+        "soNhanVien": 109,
+        "dienTich": 21,
+        "tongChiPhi": 6000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438c",
+            "66ff5fd922150a3f1ebf4390"
+        ]
+    },
+    {
+        "_id": "66ff63706512d978bc070bf3",
+        "congTyId": "66ff5f9939539f59aa855a4d",
+        "nam": 2021,
+        "thang": 2,
+        "soNhanVien": 109,
+        "dienTich": 21,
+        "tongChiPhi": 6000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf438c"
+        ]
+    },
+    {
+        "_id": "66ff63706512d978bc070bf4",
+        "congTyId": "66ff5f9939539f59aa855a4d",
+        "nam": 2021,
+        "thang": 3,
+        "soNhanVien": 109,
+        "dienTich": 21,
+        "tongChiPhi": 11000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438c",
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf4390"
+        ]
+    },
+    {
+        "_id": "66ff63706512d978bc070bf5",
+        "congTyId": "66ff5f9939539f59aa855a4d",
+        "nam": 2021,
+        "thang": 4,
+        "soNhanVien": 109,
+        "dienTich": 21,
+        "tongChiPhi": 6000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf438c"
+        ]
+    },
+    {
+        "_id": "66ff63706512d978bc070bf6",
+        "congTyId": "66ff5f9939539f59aa855a4d",
+        "nam": 2021,
+        "thang": 5,
+        "soNhanVien": 109,
+        "dienTich": 21,
+        "tongChiPhi": 15000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438d",
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf4390"
+        ]
+    },
+    {
+        "_id": "66ff63706512d978bc070bf7",
+        "congTyId": "66ff5f9939539f59aa855a4d",
+        "nam": 2022,
+        "thang": 1,
+        "soNhanVien": 109,
+        "dienTich": 21,
+        "tongChiPhi": 12000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438c",
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf438d"
+        ]
+    },
+    {
+        "_id": "66ff63706512d978bc070bf8",
+        "congTyId": "66ff5f9939539f59aa855a4d",
+        "nam": 2022,
+        "thang": 2,
+        "soNhanVien": 109,
+        "dienTich": 21,
+        "tongChiPhi": 5000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4391"
+        ]
+    },
+    {
+        "_id": "66ff63706512d978bc070bf9",
+        "congTyId": "66ff5f9939539f59aa855a4d",
+        "nam": 2022,
+        "thang": 3,
+        "soNhanVien": 109,
+        "dienTich": 21,
+        "tongChiPhi": 17000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438c",
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf4391"
+        ]
+    },
+    {
+        "_id": "66ff63706512d978bc070bfa",
+        "congTyId": "66ff5f9939539f59aa855a4d",
+        "nam": 2022,
+        "thang": 4,
+        "soNhanVien": 109,
+        "dienTich": 21,
+        "tongChiPhi": 21000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf438d",
+            "66ff5fd922150a3f1ebf4391"
+        ]
+    },
+    {
+        "_id": "66ff63706512d978bc070bfb",
+        "congTyId": "66ff5f9939539f59aa855a4d",
+        "nam": 2022,
+        "thang": 5,
+        "soNhanVien": 109,
+        "dienTich": 21,
+        "tongChiPhi": 6000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438f"
+        ]
+    },
+    {
+        "_id": "66ff63716512d978bc070bfc",
+        "congTyId": "66ff5f9939539f59aa855a4d",
+        "nam": 2023,
+        "thang": 1,
+        "soNhanVien": 109,
+        "dienTich": 21,
+        "tongChiPhi": 1000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438c"
+        ]
+    },
+    {
+        "_id": "66ff63716512d978bc070bfd",
+        "congTyId": "66ff5f9939539f59aa855a4d",
+        "nam": 2023,
+        "thang": 2,
+        "soNhanVien": 109,
+        "dienTich": 21,
+        "tongChiPhi": 11000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438c",
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf4391"
+        ]
+    },
+    {
+        "_id": "66ff63716512d978bc070bfe",
+        "congTyId": "66ff5f9939539f59aa855a4d",
+        "nam": 2023,
+        "thang": 3,
+        "soNhanVien": 109,
+        "dienTich": 21,
+        "tongChiPhi": 16000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf438d"
+        ]
+    },
+    {
+        "_id": "66ff63716512d978bc070bff",
+        "congTyId": "66ff5f9939539f59aa855a4d",
+        "nam": 2023,
+        "thang": 4,
+        "soNhanVien": 109,
+        "dienTich": 21,
+        "tongChiPhi": 21000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf4391"
+        ]
+    },
+    {
+        "_id": "66ff63716512d978bc070c00",
+        "congTyId": "66ff5f9939539f59aa855a4d",
+        "nam": 2023,
+        "thang": 5,
+        "soNhanVien": 109,
+        "dienTich": 21,
+        "tongChiPhi": 16000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf438d"
+        ]
+    },
+    {
+        "_id": "66ff63716512d978bc070c01",
+        "congTyId": "66ff5f9939539f59aa855a4d",
+        "nam": 2024,
+        "thang": 1,
+        "soNhanVien": 109,
+        "dienTich": 21,
+        "tongChiPhi": 6000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf438c"
+        ]
+    },
+    {
+        "_id": "66ff63716512d978bc070c02",
+        "congTyId": "66ff5f9939539f59aa855a4d",
+        "nam": 2024,
+        "thang": 2,
+        "soNhanVien": 109,
+        "dienTich": 21,
+        "tongChiPhi": 16000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438c",
+            "66ff5fd922150a3f1ebf438d",
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf4390"
+        ]
+    },
+    {
+        "_id": "66ff63716512d978bc070c03",
+        "congTyId": "66ff5f9939539f59aa855a4d",
+        "nam": 2024,
+        "thang": 3,
+        "soNhanVien": 109,
+        "dienTich": 21,
+        "tongChiPhi": 11000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf4390"
+        ]
+    },
+    {
+        "_id": "66ff63716512d978bc070c04",
+        "congTyId": "66ff5f9939539f59aa855a4d",
+        "nam": 2024,
+        "thang": 4,
+        "soNhanVien": 109,
+        "dienTich": 21,
+        "tongChiPhi": 21000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf438f"
+        ]
+    },
+    {
+        "_id": "66ff63716512d978bc070c05",
+        "congTyId": "66ff5f9939539f59aa855a4d",
+        "nam": 2024,
+        "thang": 5,
+        "soNhanVien": 109,
+        "dienTich": 21,
+        "tongChiPhi": 5000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4390"
+        ]
+    },
+    {
+        "_id": "66ff63716512d978bc070c06",
+        "congTyId": "66ff5f9939539f59aa855a4e",
+        "nam": 2020,
+        "thang": 1,
+        "soNhanVien": 80,
+        "dienTich": 14,
+        "tongChiPhi": 21000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf4390"
+        ]
+    },
+    {
+        "_id": "66ff63716512d978bc070c07",
+        "congTyId": "66ff5f9939539f59aa855a4e",
+        "nam": 2020,
+        "thang": 2,
+        "soNhanVien": 80,
+        "dienTich": 14,
+        "tongChiPhi": 6000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf438c"
+        ]
+    },
+    {
+        "_id": "66ff63716512d978bc070c08",
+        "congTyId": "66ff5f9939539f59aa855a4e",
+        "nam": 2020,
+        "thang": 3,
+        "soNhanVien": 80,
+        "dienTich": 14,
+        "tongChiPhi": 16000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438d",
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf438c"
+        ]
+    },
+    {
+        "_id": "66ff63716512d978bc070c09",
+        "congTyId": "66ff5f9939539f59aa855a4e",
+        "nam": 2020,
+        "thang": 4,
+        "soNhanVien": 80,
+        "dienTich": 14,
+        "tongChiPhi": 7000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438c",
+            "66ff5fd922150a3f1ebf438f"
+        ]
+    },
+    {
+        "_id": "66ff63716512d978bc070c0a",
+        "congTyId": "66ff5f9939539f59aa855a4e",
+        "nam": 2020,
+        "thang": 5,
+        "soNhanVien": 80,
+        "dienTich": 14,
+        "tongChiPhi": 16000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf4391"
+        ]
+    },
+    {
+        "_id": "66ff63716512d978bc070c0b",
+        "congTyId": "66ff5f9939539f59aa855a4e",
+        "nam": 2021,
+        "thang": 1,
+        "soNhanVien": 80,
+        "dienTich": 14,
+        "tongChiPhi": 10000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf4390"
+        ]
+    },
+    {
+        "_id": "66ff63716512d978bc070c0c",
+        "congTyId": "66ff5f9939539f59aa855a4e",
+        "nam": 2021,
+        "thang": 2,
+        "soNhanVien": 80,
+        "dienTich": 14,
+        "tongChiPhi": 10000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf4390"
+        ]
+    },
+    {
+        "_id": "66ff63716512d978bc070c0d",
+        "congTyId": "66ff5f9939539f59aa855a4e",
+        "nam": 2021,
+        "thang": 3,
+        "soNhanVien": 80,
+        "dienTich": 14,
+        "tongChiPhi": 6000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438c",
+            "66ff5fd922150a3f1ebf4391"
+        ]
+    },
+    {
+        "_id": "66ff63716512d978bc070c0e",
+        "congTyId": "66ff5f9939539f59aa855a4e",
+        "nam": 2021,
+        "thang": 4,
+        "soNhanVien": 80,
+        "dienTich": 14,
+        "tongChiPhi": 16000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438d",
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf438c",
+            "66ff5fd922150a3f1ebf4390"
+        ]
+    },
+    {
+        "_id": "66ff63716512d978bc070c0f",
+        "congTyId": "66ff5f9939539f59aa855a4e",
+        "nam": 2021,
+        "thang": 5,
+        "soNhanVien": 80,
+        "dienTich": 14,
+        "tongChiPhi": 16000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438c",
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf438d"
+        ]
+    },
+    {
+        "_id": "66ff63716512d978bc070c10",
+        "congTyId": "66ff5f9939539f59aa855a4e",
+        "nam": 2022,
+        "thang": 1,
+        "soNhanVien": 80,
+        "dienTich": 14,
+        "tongChiPhi": 5000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4390"
+        ]
+    },
+    {
+        "_id": "66ff63716512d978bc070c11",
+        "congTyId": "66ff5f9939539f59aa855a4e",
+        "nam": 2022,
+        "thang": 2,
+        "soNhanVien": 80,
+        "dienTich": 14,
+        "tongChiPhi": 16000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf438d",
+            "66ff5fd922150a3f1ebf4390"
+        ]
+    },
+    {
+        "_id": "66ff63716512d978bc070c12",
+        "congTyId": "66ff5f9939539f59aa855a4e",
+        "nam": 2022,
+        "thang": 3,
+        "soNhanVien": 80,
+        "dienTich": 14,
+        "tongChiPhi": 17000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf438c"
+        ]
+    },
+    {
+        "_id": "66ff63716512d978bc070c13",
+        "congTyId": "66ff5f9939539f59aa855a4e",
+        "nam": 2022,
+        "thang": 4,
+        "soNhanVien": 80,
+        "dienTich": 14,
+        "tongChiPhi": 16000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438d",
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf438f"
+        ]
+    },
+    {
+        "_id": "66ff63716512d978bc070c14",
+        "congTyId": "66ff5f9939539f59aa855a4e",
+        "nam": 2022,
+        "thang": 5,
+        "soNhanVien": 80,
+        "dienTich": 14,
+        "tongChiPhi": 16000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438c",
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf438d"
+        ]
+    },
+    {
+        "_id": "66ff63716512d978bc070c15",
+        "congTyId": "66ff5f9939539f59aa855a4e",
+        "nam": 2023,
+        "thang": 1,
+        "soNhanVien": 80,
+        "dienTich": 14,
+        "tongChiPhi": 21000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf438e"
+        ]
+    },
+    {
+        "_id": "66ff63716512d978bc070c16",
+        "congTyId": "66ff5f9939539f59aa855a4e",
+        "nam": 2023,
+        "thang": 2,
+        "soNhanVien": 80,
+        "dienTich": 14,
+        "tongChiPhi": 6000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4391",
+            "66ff5fd922150a3f1ebf438c"
+        ]
+    },
+    {
+        "_id": "66ff63726512d978bc070c17",
+        "congTyId": "66ff5f9939539f59aa855a4e",
+        "nam": 2023,
+        "thang": 3,
+        "soNhanVien": 80,
+        "dienTich": 14,
+        "tongChiPhi": 11000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf438e"
+        ]
+    },
+    {
+        "_id": "66ff63726512d978bc070c18",
+        "congTyId": "66ff5f9939539f59aa855a4e",
+        "nam": 2023,
+        "thang": 4,
+        "soNhanVien": 80,
+        "dienTich": 14,
+        "tongChiPhi": 5000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438d"
+        ]
+    },
+    {
+        "_id": "66ff63726512d978bc070c19",
+        "congTyId": "66ff5f9939539f59aa855a4e",
+        "nam": 2023,
+        "thang": 5,
+        "soNhanVien": 80,
+        "dienTich": 14,
+        "tongChiPhi": 15000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf4391"
+        ]
+    },
+    {
+        "_id": "66ff63726512d978bc070c1a",
+        "congTyId": "66ff5f9939539f59aa855a4e",
+        "nam": 2024,
+        "thang": 1,
+        "soNhanVien": 80,
+        "dienTich": 14,
+        "tongChiPhi": 17000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf438c"
+        ]
+    },
+    {
+        "_id": "66ff63726512d978bc070c1b",
+        "congTyId": "66ff5f9939539f59aa855a4e",
+        "nam": 2024,
+        "thang": 2,
+        "soNhanVien": 80,
+        "dienTich": 14,
+        "tongChiPhi": 10000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf4390"
+        ]
+    },
+    {
+        "_id": "66ff63726512d978bc070c1c",
+        "congTyId": "66ff5f9939539f59aa855a4e",
+        "nam": 2024,
+        "thang": 3,
+        "soNhanVien": 80,
+        "dienTich": 14,
+        "tongChiPhi": 15000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf438d",
+            "66ff5fd922150a3f1ebf4391"
+        ]
+    },
+    {
+        "_id": "66ff63726512d978bc070c1d",
+        "congTyId": "66ff5f9939539f59aa855a4e",
+        "nam": 2024,
+        "thang": 4,
+        "soNhanVien": 80,
+        "dienTich": 14,
+        "tongChiPhi": 21000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf4391"
+        ]
+    },
+    {
+        "_id": "66ff63726512d978bc070c1e",
+        "congTyId": "66ff5f9939539f59aa855a4e",
+        "nam": 2024,
+        "thang": 5,
+        "soNhanVien": 80,
+        "dienTich": 14,
+        "tongChiPhi": 17000000,
+        "dichVuSuDungId": [
+            "66ff5fd922150a3f1ebf4390",
+            "66ff5fd922150a3f1ebf438e",
+            "66ff5fd922150a3f1ebf438f",
+            "66ff5fd922150a3f1ebf438c"
+        ]
+    }
+]

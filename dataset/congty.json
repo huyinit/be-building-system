@@ -1,0 +1,112 @@
+[
+    {
+        "_id": "66ff5f9939539f59aa855a45",
+        "ten": "Công ty Công ty TNHH Hòa Phát",
+        "maSoThue": "585608111",
+        "vonDieuLe": 26014547,
+        "linhVuc": "Xây dựng",
+        "soNhanVien": 122,
+        "diaChiVanPhong": "Số 84, Đường ABC, TP Hồ Chí Minh",
+        "soDienThoai": "0900861064",
+        "dienTich": 16
+    },
+    {
+        "_id": "66ff5f9939539f59aa855a46",
+        "ten": "Công ty Công ty CP Bình Dương",
+        "maSoThue": "756607911",
+        "vonDieuLe": 21043466,
+        "linhVuc": "Giáo dục",
+        "soNhanVien": 105,
+        "diaChiVanPhong": "Số 62, Đường ABC, TP Hồ Chí Minh",
+        "soDienThoai": "0952946029",
+        "dienTich": 25
+    },
+    {
+        "_id": "66ff5f9939539f59aa855a47",
+        "ten": "Công ty Công ty TNHH Dịch Vụ Vạn Phúc",
+        "maSoThue": "116517183",
+        "vonDieuLe": 45901855,
+        "linhVuc": "Công nghệ",
+        "soNhanVien": 130,
+        "diaChiVanPhong": "Số 71, Đường ABC, TP Hồ Chí Minh",
+        "soDienThoai": "0926906005",
+        "dienTich": 15
+    },
+    {
+        "_id": "66ff5f9939539f59aa855a48",
+        "ten": "Công ty Công ty CP Phát Triển Hòa Bình",
+        "maSoThue": "710511428",
+        "vonDieuLe": 28222255,
+        "linhVuc": "Công nghệ",
+        "soNhanVien": 131,
+        "diaChiVanPhong": "Số 56, Đường ABC, TP Hồ Chí Minh",
+        "soDienThoai": "0904112256",
+        "dienTich": 21
+    },
+    {
+        "_id": "66ff5f9939539f59aa855a49",
+        "ten": "Công ty Công ty TNHH Đầu Tư An Phát",
+        "maSoThue": "292989146",
+        "vonDieuLe": 30305651,
+        "linhVuc": "Dịch vụ",
+        "soNhanVien": 114,
+        "diaChiVanPhong": "Số 84, Đường ABC, TP Hồ Chí Minh",
+        "soDienThoai": "0959403517",
+        "dienTich": 13
+    },
+    {
+        "_id": "66ff5f9939539f59aa855a4a",
+        "ten": "Công ty Công ty CP Công Nghệ Thế Kỷ",
+        "maSoThue": "497159836",
+        "vonDieuLe": 30771688,
+        "linhVuc": "Công nghệ",
+        "soNhanVien": 90,
+        "diaChiVanPhong": "Số 76, Đường ABC, TP Hồ Chí Minh",
+        "soDienThoai": "0946030770",
+        "dienTich": 12
+    },
+    {
+        "_id": "66ff5f9939539f59aa855a4b",
+        "ten": "Công ty Công ty TNHH Xây Dựng Đông Á",
+        "maSoThue": "537936986",
+        "vonDieuLe": 18679065,
+        "linhVuc": "Xây dựng",
+        "soNhanVien": 131,
+        "diaChiVanPhong": "Số 33, Đường ABC, TP Hồ Chí Minh",
+        "soDienThoai": "0995847421",
+        "dienTich": 21
+    },
+    {
+        "_id": "66ff5f9939539f59aa855a4c",
+        "ten": "Công ty Công ty CP Thương Mại Nam Việt",
+        "maSoThue": "956237080",
+        "vonDieuLe": 48420560,
+        "linhVuc": "Giáo dục",
+        "soNhanVien": 120,
+        "diaChiVanPhong": "Số 74, Đường ABC, TP Hồ Chí Minh",
+        "soDienThoai": "0927875910",
+        "dienTich": 11
+    },
+    {
+        "_id": "66ff5f9939539f59aa855a4d",
+        "ten": "Công ty Công ty TNHH Dịch Vụ Hồng Hà",
+        "maSoThue": "810841982",
+        "vonDieuLe": 37009657,
+        "linhVuc": "Giáo dục",
+        "soNhanVien": 109,
+        "diaChiVanPhong": "Số 100, Đường ABC, TP Hồ Chí Minh",
+        "soDienThoai": "0997973628",
+        "dienTich": 21
+    },
+    {
+        "_id": "66ff5f9939539f59aa855a4e",
+        "ten": "Công ty Công ty CP Sản Xuất Hoàng Gia",
+        "maSoThue": "423141095",
+        "vonDieuLe": 41397655,
+        "linhVuc": "Dịch vụ",
+        "soNhanVien": 80,
+        "diaChiVanPhong": "Số 53, Đường ABC, TP Hồ Chí Minh",
+        "soDienThoai": "0950136411",
+        "dienTich": 14
+    }
+]
